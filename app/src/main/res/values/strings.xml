@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppStartup</string>
+    <string name="initialized_koin">Koin is initialized.</string>
+    <string name="initialized_timber">Timber is initialized.</string>
+    <string name="startup">The App Startup library provides a straightforward, performant way to initialize components at application startup.
+        Both library developers and app developers can use App Startup to streamline startup sequences and explicitly set the order of initialization.</string>
+</resources>
