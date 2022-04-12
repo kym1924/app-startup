@@ -392,3 +392,5 @@ public final class StartupLogger {
 ##### Reference
 
 - https://developer.android.com/topic/libraries/app-startup
+- https://github.com/JakeWharton/timber
+- https://insert-koin.io/
